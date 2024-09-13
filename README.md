@@ -2,10 +2,8 @@
 ---
 
 ### 🎓 I'm a student of the Technician in Computer Application Development at UNICEN 
----
 
 ## About me 🌟
----
 ~~~
 - 🤓 I’m interested in software testing and frontend development.
   
