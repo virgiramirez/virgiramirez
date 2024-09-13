@@ -2,6 +2,7 @@
 ---
 
 ### 🎓 I'm a student of the Technician in Computer Application Development at UNICEN 
+---
 
 ## About me 🌟
 ~~~
