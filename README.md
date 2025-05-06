@@ -6,9 +6,9 @@
 
 ## About me 🌟
 ~~~
-- 🤓 I’m interested in software testing and frontend development.
+- 🤓 I’m interested in *software testing* and *frontend development*.
 - 🌱 I'm currently also studying through courses about testing for beginners, in the future I would like to get into test automation.
-- 📍 Based in Tandil, Argentina.
+- 📍 Based in Tandil, *Argentina*.
 - 🧠 Always curious and learning something new.
 ~~~
 
@@ -22,7 +22,8 @@ Git & GitHub | MySQL | Postman | VSCode
 ---
 
 ## 📂 Projects
-- 💐 [Plant API](https://github.com/virgiramirez/Plant-API)) – RESTful API for managing a plant collection. Supports listing, adding, updating, and retrieving plant details via various endpoints.  
+- 💐 [Plant API](https://github.com/virgiramirez/Plant-API)) – RESTful API for managing a plant collection. Supports listing, adding, updating, and retrieving plant details via various endpoints.
+- 🌿[Plant Web App](https://github.com/virgiramirez/Plant-MVC) – Full-stack web application developed with the MVC pattern. It uses a MySQL database to manage information about orders and plants, and includes full CRUD functionality.
 
 ---
 
