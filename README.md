@@ -7,10 +7,30 @@
 ## About me 🌟
 ~~~
 - 🤓 I’m interested in software testing and frontend development.
-  
-- 🌱 I'm currently taking a course on Udemy about testing for beginners, in the future I would like to get into test automation.
+- 🌱 I'm currently also studying through courses about testing for beginners, in the future I would like to get into test automation.
+- 📍 Based in Tandil, Argentina.
+- 🧠 Always curious and learning something new.
 ~~~
 
+---
+
+## 💻 Tech Stack
+**Languages & Tools:**  
+HTML | CSS | JavaScript | Java | SQL  
+Git & GitHub | MySQL | Postman | VSCode
+
+---
+
+## 📂 Projects
+- 💐 [Plant API](https://github.com/virgiramirez/Plant-API)) – RESTful API for managing a plant collection. Supports listing, adding, updating, and retrieving plant details via various endpoints.  
+
+---
+
+## 📬 Contact
+- ✉️ virginiasr19@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/virginia-soledad-ramirez)
+
+---
 <!---
 virgiramirez/virgiramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
