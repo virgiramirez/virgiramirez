@@ -6,7 +6,7 @@
 
 ## About me 🌟
 
-- 🤓 I'm interesting in software testing and frontend development
+- 🤓 I'm interesting in software testing and frontend development.
 - 🌱 I'm currently also studying through courses about testing for beginners, in the future I would like to get into test automation.
 - 📍 Based in Tandil, Argentina.
 - 🧠 Always curious and learning something new.
@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 
 ### 🧑🏻‍💻 Languages
-HTML, CSS, JavaScript, Java, SQL
+HTML, CSS, JavaScript, Java, SQL, PHP
 
 ### 🛠️ Tools
 Git & GitHub, Postman, VSCode, phpMyAdmin, DataGrip
